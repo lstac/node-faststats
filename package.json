@@ -23,7 +23,7 @@
   "main": "faststats.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bluesmoon/node-faststats.git"
+    "url": "git://github.com/lstac/node-faststats.git"
   },
   "dependencies": {},
   "devDependencies": {
